@@ -8,7 +8,7 @@ composer require thibaud-dauce/laravel-notifications-mattermost
 
 ## Creating your webhook URL in Mattermost
 
-Follow the official documentation https://docs.mattermost.com/developer/webhooks-incoming.html.
+Follow the official documentation [https://docs.mattermost.com/developer/webhooks-incoming.html](https://developers.mattermost.com/integrate/webhooks/incoming/).
 
 ## Usage
 
